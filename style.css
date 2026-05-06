@@ -1,7 +1,39 @@
+p {
+  font-family: Tahoma,Helvetica, Alef;
+  font-size: 14px;
+  font-weight: normal;
+  color: #646464;
+  width: 800px;
+  padding-left: 4px;
+}
+
+a {
+  color: #D20909;
+  font-weight: none;
+  underline: none;
+  text-decoration: underline;
+}
+
+h1 {
+  font-family: Trebuchet MS;
+  padding-left: 12px;
+  color: #036AC8;
+}
+
+h3 {
+  font-family: Trebuchet MS, Alef;
+  padding-left: 4px;
+  color: #036AC8;
+}
+
 html, body {
   margin: 0;
   padding: 0;
 }
 canvas {
   display: block;
+}
+
+th, td {
+  padding: 4px;
 }
